@@ -11,5 +11,4 @@
 💼 • Mes projets :
 - 📯 [Flash Pub](https://discord.gg/mrtARN7ZwS) (serveur discord publicitaire).
 - 🚀 [Xyloria](https://discord.gg/TvhAmR6eHg) (serveur minecraft survie).
-- 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
-- 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
+- 🤝 [XyloBot](soon) (Bot discord public).
