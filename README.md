@@ -1,10 +1,10 @@
 <h1 align="center">🐲 Hello World 🐲</h1>
 
-###  Je suis SplidZ.  <img src="https://cdn.discordapp.com/attachments/890288032551424092/904825701914517584/890368948623798282.gif" height="16px"/> ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=MatgordFr.MatgordFr)
+###  Je suis SplidZ.  <img src="https://komarev.com/ghpvc/?username=splidz&label=Profile%20views&color=0e75b6&style=flat" alt="splidz" />
 
 <p align="right">
    <a href="https://discord.com/users/474871889664278530" target="_blank" rel="nofollow">
-      <img src="https://lanyard.cnrad.dev/api/474871889664278530?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+      <img src="https://lanyard-profile-readme.vercel.app/api/474871889664278530?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
    </a>
 </p>
 
