@@ -10,5 +10,4 @@
 
 💼 • Mes projets :
 - 📯 [Flash Pub](https://discord.gg/mrtARN7ZwS) (serveur discord publicitaire).
-- 🚀 [Xyloria](https://discord.gg/TvhAmR6eHg) (serveur minecraft survie).
-- 🤝 [XyloBot](soon) (Bot discord public).
+- 🚀 [AstroBots](https://discord.gg/TvhAmR6eHg) (bots personnalisés payants performants).
